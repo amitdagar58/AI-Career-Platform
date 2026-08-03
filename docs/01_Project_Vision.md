@@ -62,3 +62,6 @@ The AI Career Platform will be developed with the following principles:
 # Conclusion
 
 The AI Career Platform aims to become a smart career companion that empowers users to make confident career decisions while demonstrating industry-level software development and AI capabilities.
+
+
+# I Love You
