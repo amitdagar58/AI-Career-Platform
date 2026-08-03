@@ -1,92 +1,64 @@
 # AI Career Platform
 
-## Project Vision
+# Project Vision
 
-### Version
-1.0
+**Document Version:** 1.0
 
-### Project Type
-Production-Style AI Career Guidance and Job Market Intelligence Platform
+**Last Updated:** 03 August 2026
 
----
-
-# Vision Statement
-
-The AI Career Platform is an intelligent web application designed to help students, fresh graduates, and job seekers make informed career decisions using Artificial Intelligence, Machine Learning, and Data Analytics.
-
-The platform combines job market analysis with personalized AI-powered career guidance. It enables users to analyze their resumes, identify missing skills, receive job recommendations, estimate expected salaries, explore market trends, and prepare for interviews—all within a single application.
-
-Unlike traditional job portals that only display job listings, this platform acts as an AI-powered career mentor by providing personalized insights and recommendations based on the user's profile and the latest job market information.
+**Prepared By:** Amit Dagar
 
 ---
 
-# Why This Project?
+# 1. Vision Statement
 
-Many students and job seekers struggle to answer questions such as:
+Our vision is to build an intelligent AI-powered career guidance platform that helps students, fresh graduates, and job seekers make informed career decisions through personalized recommendations, data-driven insights, and modern Artificial Intelligence technologies.
 
-- Which skills should I learn next?
-- Which jobs match my current skills?
-- Is my resume ATS-friendly?
-- What salary can I expect?
-- Which technologies are currently in demand?
-- How can I prepare for interviews?
-
-Currently, users often visit multiple platforms to find these answers.
-
-This project aims to bring these capabilities together into one intelligent platform.
+The platform aims to simplify career planning by bringing resume analysis, job recommendations, skill gap analysis, salary prediction, learning guidance, and interview preparation into one easy-to-use application.
 
 ---
 
-# Vision Goals
+# 2. Purpose
 
-The platform aims to:
+The purpose of this project is to bridge the gap between a user's current skills and industry requirements by providing personalized career guidance based on real job market data.
 
-- Help users make informed career decisions.
-- Provide AI-powered personalized recommendations.
-- Analyze current job market trends.
-- Recommend skills based on market demand.
-- Improve resume quality.
-- Predict expected salaries.
-- Recommend suitable jobs.
-- Assist interview preparation.
-- Provide career guidance through AI.
+Rather than acting as only a job portal, the platform will serve as an AI Career Mentor that supports users throughout their career journey.
 
 ---
 
-# Target Users
+# 3. Target Users
 
-- College Students
+The platform is designed for:
+
+- Students
 - Fresh Graduates
-- Internship Seekers
 - Job Seekers
-- Career Switchers
+- Career Changers
+- Professionals looking to improve their skills
 
 ---
 
-# Expected Outcome
+# 4. Long-Term Goal
 
-The final product will be a production-ready AI platform that combines:
+The long-term goal is to develop a production-quality application that demonstrates modern software engineering, Artificial Intelligence, and Machine Learning techniques while solving real-world career guidance problems.
 
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Data Analytics
-- Recommendation Systems
-- Full-Stack Web Development
-
-The platform will be designed with scalability, maintainability, and usability in mind, making it suitable as both a professional portfolio project and a demonstration of real-world software engineering practices.
+The project will also serve as a portfolio application that showcases practical development skills to recruiters and employers.
 
 ---
 
-# Long-Term Vision
+# 5. Core Values
 
-Future versions of the platform may include:
+The AI Career Platform will be developed with the following principles:
 
-- Real-time job data integration
-- AI mock interviews
-- Resume rewriting assistant
-- Career roadmap generator
-- Learning recommendation engine
-- Company analytics
-- Recruiter dashboard
-- Mobile application
+- User-Centered Design
+- AI-Driven Decision Making
+- Data Accuracy
+- Clean and Maintainable Code
+- Continuous Improvement
+- Professional Software Development Practices
+
+---
+
+# Conclusion
+
+The AI Career Platform aims to become a smart career companion that empowers users to make confident career decisions while demonstrating industry-level software development and AI capabilities.
