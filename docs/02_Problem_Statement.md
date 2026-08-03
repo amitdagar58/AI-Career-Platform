@@ -7,122 +7,80 @@
 
 
 
+# AI Career Platform
+
 # Problem Statement
-
-**Project Name:** AI Career Platform
-
-**Version:** 1.0
 
 **Document Version:** 1.0
 
+**Last Updated:** 03 August 2026
+
 **Prepared By:** Amit Dagar
 
-**Date:** 02 August 2026
+---
+
+# 1. Background
+
+Today's job market is highly competitive and constantly changing. New technologies, tools, and required skills evolve rapidly, making it difficult for students and job seekers to identify the right career path and prepare effectively.
+
+Many people spend significant time searching for career advice, learning resources, and job opportunities across different websites, but they often receive incomplete or generic guidance.
 
 ---
 
-# 1. Introduction
+# 2. Problem Statement
 
-Choosing the right career path has become increasingly difficult due to the rapid growth of technology and the constantly changing job market. Students and job seekers often struggle to understand which skills are currently in demand, how to improve their resumes, and which career path best matches their abilities.
+Students and job seekers commonly face the following challenges:
 
-Although many online platforms provide job listings, learning resources, or professional networking, they rarely provide complete personalized career guidance in a single platform.
+- They do not know which skills are currently in demand.
+- They are unsure whether their resume matches industry expectations.
+- They struggle to identify the gap between their current skills and the skills required for their target jobs.
+- They receive generic career advice instead of personalized guidance.
+- They often lack a clear learning roadmap.
+- They are uncertain about salary expectations for different roles and locations.
+- They prepare for interviews without understanding the most important topics.
 
-The AI Career Platform aims to solve this problem by combining Artificial Intelligence, Machine Learning, Data Analytics, and Career Guidance into one integrated system.
-
----
-
-# 2. Problem Description
-
-Students and job seekers usually face the following challenges:
-
-- They do not know which technical skills are currently in demand.
-- They are unable to identify the gap between their current skills and industry requirements.
-- They often apply for jobs without knowing whether they are a good match.
-- Many resumes fail Applicant Tracking System (ATS) screening.
-- Salary expectations are often based on assumptions rather than data.
-- Career guidance is usually scattered across multiple websites and platforms.
-- Beginners find it difficult to create a proper learning roadmap.
-
-As a result, users spend significant time searching for information from different sources without receiving personalized recommendations.
+As a result, users spend time, effort, and money without having a structured career development plan.
 
 ---
 
-# 3. Existing Solutions
+# 3. Limitations of Existing Solutions
 
-Several platforms provide career-related services, including:
+Most existing career platforms focus on only one area, such as job listings, resume building, or online learning.
 
-- Professional networking platforms
-- Job portals
-- Online learning platforms
-- Resume-building websites
-
-However, these platforms generally focus on only one or two aspects of career development instead of providing a complete AI-driven career guidance system.
+Users must switch between multiple platforms to complete different career-related tasks. This leads to a fragmented experience and makes career planning more difficult.
 
 ---
 
-# 4. Limitations of Existing Solutions
+# 4. Proposed Solution
 
-The current solutions have several limitations:
+The AI Career Platform will combine multiple career services into a single intelligent application.
 
-- Limited personalization.
-- Lack of AI-based career mentoring.
-- No complete skill gap analysis.
-- Resume analysis is often basic or paid.
-- Learning recommendations are not always based on actual job market demand.
-- Users need to switch between multiple websites to complete different tasks.
-- Most platforms do not combine market intelligence with personalized recommendations.
+The platform will help users by providing:
 
----
+- Resume Analysis
+- Skill Gap Analysis
+- Job Recommendations
+- Salary Prediction
+- Career Guidance
+- Learning Roadmaps
+- Interview Preparation
 
-# 5. Proposed Solution
-
-The proposed AI Career Platform will provide an integrated solution where users can:
-
-- Upload their resumes.
-- Analyze resume quality.
-- Identify missing skills.
-- Receive personalized job recommendations.
-- Predict expected salary.
-- View job market analytics.
-- Receive AI-powered career guidance.
-- Generate interview preparation questions.
-- Follow personalized learning roadmaps.
-
-All these features will be available through a single web application.
+These features will use Artificial Intelligence and Machine Learning to deliver personalized recommendations based on the user's profile and current job market trends.
 
 ---
 
-# 6. Why Artificial Intelligence?
+# 5. Expected Impact
 
-Artificial Intelligence allows the system to understand user profiles and generate personalized recommendations instead of showing generic information.
+The proposed solution aims to:
 
-Machine Learning models can analyze historical job market data to estimate salaries and recommend suitable career opportunities.
-
-Natural Language Processing (NLP) can extract information from resumes and understand user queries.
-
-Recommendation systems can suggest jobs, courses, and skills based on the user's profile.
-
-Together, these technologies create a smart career guidance platform that adapts to each user's needs.
+- Help users make informed career decisions.
+- Reduce the time required for career planning.
+- Improve employability through personalized recommendations.
+- Increase confidence during job applications and interviews.
+- Provide data-driven career guidance instead of generic suggestions.
 
 ---
 
-# 7. Expected Benefits
+# Conclusion
 
-The proposed platform will help users:
-
-- Make informed career decisions.
-- Improve resume quality.
-- Identify missing skills.
-- Discover suitable job opportunities.
-- Understand market trends.
-- Build personalized learning plans.
-- Prepare for interviews.
-- Increase employability.
-
----
-
-# 8. Conclusion
-
-The AI Career Platform aims to bridge the gap between job seekers and industry requirements by combining AI, Machine Learning, Data Analytics, and Full-Stack Web Development into one intelligent platform.
-
-Instead of acting as only a job portal, the platform will function as a personalized AI Career Mentor capable of guiding users throughout their career journey.
+The AI Career Platform is designed to solve the challenges faced by students and job seekers by bringing intelligent career guidance, job market insights, and AI-powered recommendations into a single platform. This project aims to make career planning simpler, smarter, and more personalized.

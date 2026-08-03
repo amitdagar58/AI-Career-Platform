@@ -9,6 +9,10 @@
 **Prepared By:** Amit Dagar
 
 ---
+# Intro
+A Project Vision is a short statement that describes what we want to achieve in the future.
+
+---
 
 # 1. Vision Statement
 
