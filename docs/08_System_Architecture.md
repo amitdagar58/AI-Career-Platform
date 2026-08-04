@@ -11,7 +11,7 @@
 ---
 # What is System Architecture?
 
-- System Architecture shows how different parts of the project work together.
+System Architecture shows how different parts of the project work together.
 
 It answers questions like:
 
