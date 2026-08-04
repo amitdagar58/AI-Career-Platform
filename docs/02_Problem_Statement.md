@@ -1,9 +1,9 @@
-## We'll answer questions like:
-# 1. What real-world problem are we solving?
-# 2. Why do current career platforms fall short?
-# 3. What gap does our platform fill?
-# 4. Why is AI an appropriate solution?
-# 5. What is the value to students and job seekers?
+# We'll answer questions like:
+1. What real-world problem are we solving?
+2. Why do current career platforms fall short?
+3. What gap does our platform fill?
+4. Why is AI an appropriate solution?
+5. What is the value to students and job seekers?
 
 
 
