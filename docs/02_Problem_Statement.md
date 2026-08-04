@@ -19,6 +19,15 @@
 
 ---
 
+# Intro
+A Problem Statement clearly explains the real-world problem that our project is trying to solve.
+
+Think of it as answering this question:
+
+"Why does this project need to exist?"
+
+---
+
 # 1. Background
 
 Today's job market is highly competitive and constantly changing. New technologies, tools, and required skills evolve rapidly, making it difficult for students and job seekers to identify the right career path and prepare effectively.
