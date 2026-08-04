@@ -10,6 +10,13 @@
 
 ---
 
+# Mean
+Project Scope defines what is included and what is not included in the project.
+
+It prevents unnecessary feature additions.
+
+---
+
 # 1. Project Scope
 
 The AI Career Platform focuses on helping students and job seekers make better career decisions using Artificial Intelligence, Machine Learning, and Data Analytics.

@@ -10,6 +10,13 @@
 
 ---
 
+# Mean
+Project Objectives define what we want to achieve by building the project.
+
+Think of them as measurable goals.
+
+---
+
 # 1. Primary Objective
 
 The primary objective of the AI Career Platform is to develop a production-style web application that provides intelligent career guidance using Artificial Intelligence, Machine Learning, and Data Analytics.
@@ -48,3 +55,9 @@ The project will also focus on the following technical goals:
 # Conclusion
 
 The AI Career Platform aims to combine Artificial Intelligence and modern software engineering practices to create a smart, scalable, and user-friendly career guidance system.
+
+---
+
+# Difference
+Problem Statement → What problem exists?
+Objectives → What will we achieve by solving it?
