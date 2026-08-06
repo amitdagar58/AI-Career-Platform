@@ -219,7 +219,7 @@ app/
 ```
 
 ### Why are we creating __init__.py ?
-A short explanation:
+**A short explanation:**
 
 If a folder contains a file named __init__.py, Python understands that this folder is a Python package.
 
