@@ -161,8 +161,7 @@ Push to GitHub
 What Happened?
 
 When we run:
-
-uvicorn app.main:app --reload
+**uvicorn app.main:app --reload**
 
 this is what happened internally:
 Browser
