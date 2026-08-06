@@ -46,18 +46,19 @@ After installation, run:
 `pip list`
 
 - We should see packages like:
-`fastapi`
-`uvicorn`
-`sqlalchemy`
-`pydantic`
-`pymysql`
-`python-dotenv`
+```fastapi
+uvicorn
+sqlalchemy
+pydantic
+pymysql
+python-dotenv
+```
 
 ---
 # Now, we ready to write our first backend code.
 
-# Step.1: Create requirenments.txt
-# What is requirements.txt?
+### Step.1: Create requirenments.txt
+### What is requirements.txt?
 
 It is a file that stores all the Python packages required for the project.
 
