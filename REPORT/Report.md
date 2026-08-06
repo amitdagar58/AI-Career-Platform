@@ -184,11 +184,12 @@ Returns JSON Response
 ```
 
 ---
-Our next milestone is:
+**Our next milestone is:**
 # Backend Foundation
 
-# Step 1: Create these files:
+### Step 1: Create these files:
 inside backend/app, create the following:
+```
 app/
 │
 ├── api/
@@ -215,6 +216,7 @@ app/
 │   └── __init__.py
 │
 └── main.py
+```
 
 ### Why are we creating __init__.py ?
 A short explanation:
@@ -238,17 +240,19 @@ With it, the folder becomes a python package.
 ### There is a question in Front of us.
 - **Why do we update** requirements.txt?
 
-Ques: What is **requirements.txt**?
+### Ques: What is **requirements.txt**?
+
 **requirements.txt** is a file that contains a list of all the Python packages your project needs.
 
 Examples:
+```
 fastapi==0.116.1
 uvicorn==0.35.0
 sqlalchemy==2.0.43
 pymysql==1.1.2
 python-dotenv==1.1.1
 pydantic==2.11.7
-
+```
 Each line contains:
 - Package name
 - Exact version
