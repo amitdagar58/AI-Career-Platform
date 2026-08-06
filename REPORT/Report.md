@@ -133,13 +133,14 @@ visit:
 http://127.0.0.1:8000
 
 We should see:
-{
+**{
   "message": "Welcome to AI Career Platform API"
-}
+}**
 
 ---
 # From now, A small improvement to our workflow
 From now on, after every coding session, we'll follow this cycle:
+```
 Learn the concept
         ↓
 Write the code
@@ -153,11 +154,14 @@ Understand the output
 Git Commit
         ↓
 Push to GitHub
+```
 
 ---
 # Before we write more code
-- What Happened?
+What Happened?
+
 When we run:
+
 uvicorn app.main:app --reload
 
 this is what happened internally:
