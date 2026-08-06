@@ -94,14 +94,17 @@ If we can open a webpage saying:
 
 then our backend setup is successful.
 
-# Step 3: Create main.py
+### Step 3: Create main.py
 Create this file:
+```bash
 backend/
 │
 └── app/
       └── main.py
+```
 
-- Code:
+### Code:
+```bash
 from fastapi import FastAPI
 
 app = FastAPI(
@@ -115,18 +118,17 @@ def home():
     return {
         "message": "Welcome to AI Career Platform API"
     }
+```
 
-# Line 1: from fastapi import FastAPI
-
-# Step 4: Run the Server
+### Step 4: Run the Server
 Open the terminal.
 Go inside the backend folder.
-- cd backend
+```cd backend```
 
 Now run:
-- uvicorn app.main:app --reload
+```uvicorn app.main:app --reload```
 
-# Step 5: Open the Browser
+### Step 5: Open the Browser
 visit:
 http://127.0.0.1:8000
 
