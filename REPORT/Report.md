@@ -43,15 +43,15 @@ pip install fastapi uvicorn sqlalchemy pymysql python-dotenv pydantic
 ---
 # 3. Verify Installation
 After installation, run:
-pip list
+`pip list`
 
 - We should see packages like:
-'fastapi'
-'uvicorn'
-'sqlalchemy'
-'pydantic'
-'pymysql'
-'python-dotenv'
+`fastapi`
+`uvicorn`
+`sqlalchemy`
+`pydantic`
+`pymysql`
+`python-dotenv`
 
 ---
 # Now, we ready to write our first backend code.
