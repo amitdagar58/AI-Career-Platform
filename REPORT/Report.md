@@ -28,7 +28,7 @@ Because we want these packages to belong only to this project.
 For now, we need only the essential packages.
 
 Run this command:
-pip install fastapi uvicorn sqlalchemy pymysql python-dotenv pydantic
+```pip install fastapi uvicorn sqlalchemy pymysql python-dotenv pydantic```
 
 # What does each package do?
 | Package           | Purpose                                |
