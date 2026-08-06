@@ -73,13 +73,15 @@ Before writing code, a quick explanation.
 FastAPI is a Python framework used to build REST APIs.
 
 Think of it this way:
--`Browser`
-`     │`
-`     ▼`
--`FastAPI`
-`     │`
-`     ▼`
--`Database`
+```text
+Browser
+    │
+    ▼
+FastAPI
+    │
+    ▼
+Database
+```
 
 # Our First Goal
 In this, We just want to check that our backend works.
