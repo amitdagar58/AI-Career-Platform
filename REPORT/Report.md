@@ -164,6 +164,7 @@ When we run:
 **uvicorn app.main:app --reload**
 
 this is what happened internally:
+```
 Browser
       │
       ▼
@@ -180,6 +181,7 @@ FastAPI Application
       │
       ▼
 Returns JSON Response
+```
 
 ---
 Our next milestone is:
