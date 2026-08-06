@@ -62,9 +62,8 @@ python-dotenv
 
 It is a file that stores all the Python packages required for the project.
 
-```pip install -r requirements.txt
-pip freeze > requirements.txt   #(Run this command for create automatically.)
-```
+```pip install -r requirements.txt```
+```pip freeze > requirements.txt   #(Run this command for create automatically).```
 
 ### Step 2: Our First FastAPI Application
 Before writing code, a quick explanation.
