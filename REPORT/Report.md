@@ -1,29 +1,29 @@
 # This is the first real development setup for your AI Carrer Platform.
 
 ---
-# 1. We install Python, Create Virtual Environment, We activated virtual Environment and inside virtual environment ((.venv) appears in the terminal)
+### 1. We install Python, Create Virtual Environment, We activated virtual Environment and inside virtual environment ((.venv) appears in the terminal)
 
 ✅ Create Virtual Environment
-        ↓
+
 ➡ Install Required Packages
-        ↓
-Create requirements.txt
-        ↓
-Create FastAPI Project
-        ↓
-Run First FastAPI Server
+
+➡ Create requirements.txt
+
+➡ Create FastAPI Project
+        
+➡ Run First FastAPI Server
 
 ---
 # 2. Install Required Packages
-# What are Packages?
+### What are Packages?
 
 Packages are pre-written libraries created by other developers that save us from writing everything from scratch.
 
-# Why do we install them inside .venv?
+### Why do we install them inside .venv?
 
 Because we want these packages to belong only to this project.
 
-# Packages we'll install
+### Packages we'll install
 
 For now, we need only the essential packages.
 
@@ -46,12 +46,12 @@ After installation, run:
 pip list
 
 - We should see packages like:
-fastapi
-uvicorn
-sqlalchemy
-pydantic
-pymysql
-python-dotenv
+'fastapi'
+'uvicorn'
+'sqlalchemy'
+'pydantic'
+'pymysql'
+'python-dotenv'
 
 ---
 # Now, we ready to write our first backend code.
