@@ -65,21 +65,21 @@ It is a file that stores all the Python packages required for the project.
 pip install -r requirements.txt
 pip freeze > requirements.txt   #(Run this command for create automatically.)
 
-# Step 2: Our First FastAPI Application
+### Step 2: Our First FastAPI Application
 Before writing code, a quick explanation.
 
-# What is FastAPI?
+### What is FastAPI?
 
 FastAPI is a Python framework used to build REST APIs.
 
 Think of it this way:
-Browser
-     │
-     ▼
-FastAPI
-     │
-     ▼
-Database
+-`Browser`
+`     │`
+`     ▼`
+-`FastAPI`
+`     │`
+`     ▼`
+-`Database`
 
 # Our First Goal
 In this, We just want to check that our backend works.
